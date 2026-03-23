@@ -1,0 +1,9 @@
+.carousel-item img {
+    height: 700px;
+}
+
+#navbar-sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
